@@ -98,5 +98,5 @@ This project allows you to control an buggy connected to esp32 using voice comma
 
 1. **Clone This Repository**:
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   git clone https://github.com/AllaUjwalSai/Micro_ros_voice_control.git
+   cd Micro_ros_voice_control
